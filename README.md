@@ -1,11 +1,6 @@
 # Netflix_Data_Exploration
 This project analyzes Netflix's dataset to explore trends in genres, content types, and other attributes. It processes data, splits multiple genres per entry, counts their occurrences, and displays insights on the most common genres.
 
-# Netflix Data Exploration
-
-## Overview
-This project explores the Netflix dataset to analyze trends in content distribution, ratings, and metadata of movies and TV shows available on the platform.
-
 ## Dataset
 - **Source**: Netflix Titles Dataset
 - **File Used**: `netflix_titles.csv`
